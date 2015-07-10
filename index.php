@@ -63,7 +63,7 @@
 
 			<div id="header">
 				<h1><a href="#">Health Virtualization</a></h1>
-				<h2>Nagahama Institute of Bio-Science and Technology.</h2>
+				<h2>Nagahama Institute of Bio-Science and Technology</h2>
 			</div>
 
 			<div id="right">
@@ -73,11 +73,26 @@
 					
 					Health Project is the virtualization map to show national healthy. <br>
 					Simple to understand
+					
+					<br>
+					Our website provides the information about the population of every country in the world. 
+And not only the information about the population but it also contain the population growth rate, 
+life expentancy, death rate and prevalence of HIV of every country.
+
+ 
+The data is presented by world map. You can select data by click on the left tap on website and when you click on the map, 
+it will show pop-up windows that contain the data that you selected of country that you clicked on it.
+The map can zoom in or zoom out, it make a easier way to find the small country.
+
+
+The data in this site is collected from the world bank organization.
+					
+					
 					<br /><br />
 											
-					<center><img src="img/control-high-blood-pressure.jpg" height="100%" width="100%"></center>
+					<center><img src="img/control-high-blood-pressure.jpg" height="100%" width="90%"></center>
 					 
-					<br />
+					<br /><br /><br /><br /><br /><br />
 					
 					
 				</div>

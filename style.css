@@ -11,30 +11,37 @@ p { margin: 5px 0 10px 0; }
 img { border: none; }
 
 #header {
-background: #FE7B09 url(images/bg.jpg) repeat-x;
-height: 100px;
+background: #FE7B09 url(img/header.jpg) repeat-x;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+padding-bottom: 30%;
 }
 #header h1 {
-font-size: 30px;
+font-size: 46px;
 font-weight: 100;
 letter-spacing: -1px;
-padding: 22px 0 5px 10px;
+padding: 22px 10px 5px 10px;
+text-align: right;
 }
 #header h1 a {
-color: #fff;
+color: #803300;
 text-decoration: none;
 }
 #header h1 a:hover {
-color: #000;
+color: #331400;
 text-decoration: none;
 }
 #header h2 {
-color: #eee;
+color: #803300;
 font-size: 19px;
 font-weight: 100;
-padding: 0 0 0 11px;
+text-align: right;
+padding: 0 10px 0 11px;
 letter-spacing: -1px;
-line-height: 12px;
+line-height: 30px;
 }
 
 #wrap { padding: 10px 10px 3px 10px; width: 80%; margin:20px auto; background: #fff;}

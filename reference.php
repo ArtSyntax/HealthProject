@@ -63,7 +63,7 @@
 
 			<div id="header">
 				<h1><a href="#">Health Virtualization</a></h1>
-				<h2>Nagahama Institute of Bio-Science and Technology.</h2>
+				<h2>Nagahama Institute of Bio-Science and Technology</h2>
 			</div>
 
 			<div id="right">
@@ -84,6 +84,7 @@
 					<center><a href="http://www.worldbank.org/" target="_blank">
 						<img src="img/world-bank-logo.jpg" height="100%" width="20%">
 						</a></center>
+						
 					<br />
 					
 					<center><a href="http://www.nagahama-i-bio.ac.jp/" target="_blank">

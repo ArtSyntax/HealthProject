@@ -127,7 +127,7 @@
 
 			<div id="header">
 				<h1><a href="#">Health Virtualization</a></h1>
-				<h2>Nagahama Institute of Bio-Science and Technology.</h2>
+				<h2>Nagahama Institute of Bio-Science and Technology</h2>
 			</div>
 
 			<div id="right">
