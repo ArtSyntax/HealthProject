@@ -57,12 +57,13 @@
 	
 	
 	<body>
-
-		<div id="wrap">
+			
+			
+			<div id="wrap">
 
 			<div id="header">
-				<h1><a href="#">Health Project</a></h1>
-				<h2>virtualization maps</h2>
+				<h1><a href="#">Health Virtualization</a></h1>
+				<h2>Nagahama Institute of Bio-Science and Technology.</h2>
 			</div>
 
 			<div id="right">
@@ -100,10 +101,8 @@
 
 			<div id="footer">
 				Designed by <a href="https://www.facebook.com/pages/Art-Thunder/749793481806968?ref=tn_tnmn" target="blank">Art Thunder.</a> Internship Health Virtualization Project.
-				<br>Copyright <a href="http://www.nagahama-i-bio.ac.jp/" target="blank">Nagahama Institute of Bio-Science and Technology.</a> All rights Reserved.				
+				<br>Copyright <a href="http://www.nagahama-i-bio.ac.jp/" target="blank">Nagahama Institute of Bio-Science and Technology.</a> All rights Reserved.	2015			
 			</div>
 		</div>
-
-
 	</body>
 </html>
