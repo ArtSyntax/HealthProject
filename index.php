@@ -68,24 +68,25 @@
 
 			<div id="right">
 
-				<h2><a href="#">Health Project</a></h2>
+				<h2><a href="#">Health Virtualization</a></h2>
 				<div class="articles">
 					
-					Health Project is the virtualization map to show national healthy. <br>
-					Simple to understand
-					
-					<br>
-					Our website provides the information about the population of every country in the world. 
-And not only the information about the population but it also contain the population growth rate, 
-life expentancy, death rate and prevalence of HIV of every country.
+					Health Virtualization is the virtualization map to show about national healthy.
+					This website provides the information about the population of the most country in the world in 2013. 
+					And not only the information about the population but it also contain the population growth rate, 
+					life expectancy, death rate and prevalence of HIV the most country.<br><br>
 
- 
-The data is presented by world map. You can select data by click on the left tap on website and when you click on the map, 
-it will show pop-up windows that contain the data that you selected of country that you clicked on it.
-The map can zoom in or zoom out, it make a easier way to find the small country.
+					The old presentations usually show by tables and graphs.
+					It is not beautiful and complicated.
+					But this website make it is easy to understand and more beautiful.
+					The information is presented by world map. It can interact with you.
+					You can select data by click on the left tap on website 
+					and when you click on the map, it will show pop-up windows that contain the data 
+					that you selected of country that you clicked on it.
+					The map can zoom in or zoom out, it make a easier way to find the small country.<br><br>
 
 
-The data in this site is collected from the world bank organization.
+					The data in this site is collected from the world bank organization.
 					
 					
 					<br /><br />
