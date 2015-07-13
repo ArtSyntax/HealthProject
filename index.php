@@ -86,7 +86,7 @@
 					The map can zoom in or zoom out, it make a easier way to find the small country.<br><br>
 
 
-					The data in this site is collected from the world bank organization.
+					The data in this site is collected from the world bank organization in 2015.
 					
 					
 					<br /><br />

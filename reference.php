@@ -70,7 +70,6 @@
 
 				<h2><a href="#">Reference</a></h2>
 				<div class="articles">
-					
 					Database from <a href="http://www.worldbank.org/" target="_blank">The World Bank.</a> <br>
 					World Bank Open Data: free and open access to data about development in countries around the globe.<br>
 					The World Bank. (2015). Health. Retrieved from 
@@ -81,11 +80,10 @@
 					<center><a href="http://www.worldbank.org/" target="_blank">
 						<img src="img/world-bank-logo.jpg" height="100%" width="20%">
 						</a></center>
-					<br><br><br><br>	
+
+					<br><br><br>	
 						
 					<h2><a href="#">Manipulator</a></h2>
-					This site is the internship project between 
-					Nagahama Institute of Bio-Science and Technology, Japan and Kasetrart University,Thailand.<br><br>
 					
 					Examiner: Prof. Hiroshi Nagata<br>
 					Developer: Mr.Thanyavuth Akarasomcheep (Art Thunder)
@@ -96,7 +94,12 @@
 						<img src="img/nbio_logo.gif" height="100%" width="20%">
 						</a></center>	
 					 
-					<br /><br /><br /><br /><br /><br />
+					<br /><br /><br />
+					
+					<center><img src="img/World_Bank_Headquarters.jpg" height="100%" width="60%"></center>
+					<br />
+					
+					<br /><br /><br /><br />
 					
 					
 				</div>
