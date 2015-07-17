@@ -10,6 +10,63 @@ li { list-style-type: none;}
 p { margin: 5px 0 10px 0; }
 img { border: none; }
 
+
+#homehead {
+	position:absolute;
+	right:60%;
+	top:5%;
+	z-index:5;
+}
+#homehead h1 {
+font-size: 46px;
+font-weight: 100;
+letter-spacing: -1px;
+padding: 22px 10px 5px 10px;
+text-align: right;
+}
+#homehead h1 a {
+color: #803300;
+text-decoration: none;
+}
+#homehead h1 a:hover {
+color: #331400;
+text-decoration: none;
+}
+#homehead h2 {
+color: #803300;
+font-size: 19px;
+font-weight: 100;
+text-align: right;
+padding: 0 10px 0 11px;
+letter-spacing: -1px;
+line-height: 30px;
+}
+#link{
+ opacity: 0.7;
+position:absolute;
+right:-12%;/*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
+bottom:25%;/*if the caption needs to be aligned from top, specify by top instead of bottom. i.e. top:350px;*/
+height:auto;
+width:60%;
+z-index:6;
+overflow:hidden;
+}
+
+#link h1 {
+font-size: 30px;
+font-weight: 100;
+letter-spacing: -1px;
+text-align: Center;
+}
+#link h1 a {
+color: #FE7B09;
+text-decoration: none;
+}
+#link h1 a:hover {
+color: #FFDB4D;
+text-decoration: none;
+}
+
 #header {
 background: #FE7B09 url(../img/header.jpg) repeat-x;
 -webkit-background-size: cover;
@@ -20,6 +77,7 @@ background-repeat: no-repeat;
 padding-bottom: 30%;
 
 }
+
 #header h1 {
 font-size: 46px;
 font-weight: 100;

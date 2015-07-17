@@ -15,19 +15,28 @@
     </style>
 </head>
 <body>
-
-    <div id="wrapper">
+	
+	<div id="wrapper">
+		<div id="homehead">
+			<h1><a href="#">Health Virtualization</a></h1>
+		</div>
         <div id="zoom-slider">
-			<img src="img/home1.jpg" alt="Health Virtualization">
-			<img src="img/home2.jpg" alt="To know about national healthy">
+			<img src="img/home2.jpg" alt="Health Virtualization Project">
+			<img src="img/home1.jpg" alt="Commit to be Fit">
+			<img src="img/home3.jpg" alt="Rest a while and run a mile">
+			<img src="img/home4.jpg" alt="Recover your mind and body">
         </div>
 				
     </div>
 	
 	
-	<div id="link">
-		<br>
-		<center><h1><a href="index.php">Enter Site</a></h1></center>
+	<div id="link" >
+		<center>
+			<a href="index.php"><img src="img/home_button2.png" 
+			onMouseOver="this.src='img/home_button.png'" 
+			onMouseOut="this.src='img/home_button2.png'"
+			width="70 px"		/></a>
+		</center>
 	</div>
 
 </body>
