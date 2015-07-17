@@ -11,13 +11,14 @@ p { margin: 5px 0 10px 0; }
 img { border: none; }
 
 #header {
-background: #FE7B09 url(img/header.jpg) repeat-x;
+background: #FE7B09 url(../img/header.jpg) repeat-x;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
 background-repeat: no-repeat;
 padding-bottom: 30%;
+
 }
 #header h1 {
 font-size: 46px;

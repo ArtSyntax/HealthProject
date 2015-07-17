@@ -5,7 +5,7 @@
 	<title>Health Virtualization</title>
 		<meta http-equiv="Content-Language" content="English" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
 		
 		<script src="ammap/ammap.js" type="text/javascript"></script>
 		<link rel="stylesheet" href="ammap/ammap.css" type="text/css" media="all" />
@@ -38,7 +38,7 @@
 		?>
 
 		<script>var data = <?php echo $jsonTable; ?>; //sent json to js </script>	
-		<script src="colormap.js" type="text/javascript"></script>
+		<script src="js/colormap.js" type="text/javascript"></script>
 		
 	</head>
 	
