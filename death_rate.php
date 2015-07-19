@@ -60,7 +60,10 @@
 					<br />
 											
 					<center><div id="mapdiv" style="width: 100%; height: 70%; background-color:#FAFAFA;"></div></center>
-					 
+					
+					<br>Note 1 - Grey countries are the countries without data. 
+					<br>Note 2 - The country doesn't have a value. It mean the value is less than one. 
+					
 					<br /><br />
 					
 					Crude death rate indicates the number of deaths occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration. 
@@ -81,7 +84,7 @@
 
 				<h3>Categories </h3>
 				<ul>
-				<li><a href="index.php">Home</a></li> 
+				<li><a href="main.php">Home</a></li> 
 				<li><a href="pop_total.php">Population Total</a></li>
 				<li><a href="pop_growth.php">Population Growth</a></li>
 				<li><a href="age.php">Life Expectancy</a></li> 

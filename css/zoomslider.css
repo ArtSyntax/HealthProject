@@ -7,12 +7,10 @@ body { margin-top:5%; overflow-y: hidden; overflow-x: hidden;}
 	margin:0px auto; 
 	padding: 5px; 
 	background: #fff;
-	
 }
 
 #zoom-slider {
     width:900 px; height:600px;/* Make it smaller than your images for zooming effect */
-    
 	background:#CCC url(loading.gif) no-repeat 50% 50%;
     overflow:hidden;
 	position:relative;
@@ -31,7 +29,7 @@ body { margin-top:5%; overflow-y: hidden; overflow-x: hidden;}
 /* Caption styles */
 div.zs-caption-bg, div.zs-caption-bg2 {
 	position:absolute;
-	right:3%;/*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
+	right:4%;/*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
 	bottom:45%;/*if the caption needs to be aligned from top, specify by top instead of bottom. i.e. top:350px;*/
 	height:auto;
 	width:60%;
