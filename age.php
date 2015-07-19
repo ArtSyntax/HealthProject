@@ -48,7 +48,7 @@
 			<div id="wrap">
 
 			<div id="header">
-				<h1><a href="#">Health Virtualization</a></h1>
+				<h1><a href="index.php">Health Virtualization</a></h1>
 				<h2>Nagahama Institute of Bio-Science and Technology</h2>
 			</div>
 
