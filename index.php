@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   	<title>Health Virtualization</title>
+   	<title>Health Visualization</title>
 	<meta http-equiv="Content-Language" content="English" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
@@ -18,7 +18,7 @@
 	
 	<div id="wrapper">
 		<div id="homehead">
-			<h1><a href="#">Health Virtualization</a></h1>
+			<h1><a href="#">Health Visualization</a></h1>
 		</div>
         <div id="zoom-slider">
 			<img src="img/home2.jpg" alt="Run for your lives">

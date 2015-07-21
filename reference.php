@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Health Virtualization</title>
+		<title>Health Visualization</title>
 		<meta http-equiv="Content-Language" content="English" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
@@ -17,10 +17,10 @@
 	<body>
 			
 			
-			<div id="wrap">
+		<div id="wrap">
 
 			<div id="header">
-				<h1><a href="index.php">Health Virtualization</a></h1>
+				<h1><a href="index.php">Health Visualization</a></h1>
 				<h2>Nagahama Institute of Bio-Science and Technology</h2>
 			</div>
 
@@ -86,7 +86,7 @@
 			<div style="clear: both;"> </div>
 
 			<div id="footer">
-				Designed by <a href="https://www.facebook.com/pages/Art-Thunder/749793481806968?ref=tn_tnmn" target="blank">Art Thunder.</a> Internship Health Virtualization Project.
+				Designed by <a href="https://www.facebook.com/pages/Art-Thunder/749793481806968?ref=tn_tnmn" target="blank">Art Thunder.</a> Internship Health Visualization Project.
 				<br>Copyright <a href="http://www.nagahama-i-bio.ac.jp/" target="blank">Nagahama Institute of Bio-Science and Technology.</a> All rights Reserved.	2015			
 			</div>
 		</div>

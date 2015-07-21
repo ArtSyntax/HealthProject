@@ -2,7 +2,7 @@
 <html>
 
 	<head>
-	<title>Health Virtualization</title>
+	<title>Health Visualization</title>
 		<meta http-equiv="Content-Language" content="English" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
@@ -46,10 +46,10 @@
 	<body>
 			
 			
-			<div id="wrap">
+		<div id="wrap">
 
 			<div id="header">
-				<h1><a href="index.php">Health Virtualization</a></h1>
+				<h1><a href="index.php">Health Visualization</a></h1>
 				<h2>Nagahama Institute of Bio-Science and Technology</h2>
 			</div>
 
@@ -62,9 +62,10 @@
 											
 					<center><div id="mapdiv" style="width: 100%; height: 70%; background-color:#FAFAFA;"></div></center>
 					
-					<br>Note 1 - Grey countries are the countries without data. 
-					<br>Note 2 - The country doesn't have a value. It mean the value is less than one. 					 
-					
+					<i>
+						<br>Note 1 - Grey countries are the countries without data. 
+						<br>Note 2 - The country doesn't have a value. It mean the value is less than one. 
+					</i>
 					<br /><br />
 					
 					Population growth (annual %) is the exponential rate of growth of midyear population from year t-1 to t, expressed as a percentage.
@@ -96,7 +97,7 @@ Derived from total population. Population source:
 			<div style="clear: both;"> </div>
 
 			<div id="footer">
-				Designed by <a href="https://www.facebook.com/pages/Art-Thunder/749793481806968?ref=tn_tnmn" target="blank">Art Thunder.</a> Internship Health Virtualization Project.
+				Designed by <a href="https://www.facebook.com/pages/Art-Thunder/749793481806968?ref=tn_tnmn" target="blank">Art Thunder.</a> Internship Health Visualization Project.
 				<br>Copyright <a href="http://www.nagahama-i-bio.ac.jp/" target="blank">Nagahama Institute of Bio-Science and Technology.</a> All rights Reserved.	2015			
 			</div>
 		</div>
